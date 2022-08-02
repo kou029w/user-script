@@ -14,6 +14,10 @@ Amazon (amazon.co.jp) の商品 URL を短縮する
 
 Twitter から nitter.net にリダイレクトする
 
+## piped-redirection.user.js
+
+YouTube から piped.kavin.rocks にリダイレクトする
+
 ## twimg-shorten.user.js
 
 Twitter の画像 URL を短縮する
