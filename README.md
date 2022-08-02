@@ -16,9 +16,9 @@ Amazon (amazon.co.jp) の商品 URL を短縮する
 
 [＠IT](https://atmarkit.itmedia.co.jp/)の見た目を調整して、記事の続きを少し読む
 
-## nttr-redirection.user.js
+## nitter-redirection.user.js
 
-Twitter から nttr.fly.dev にリダイレクトする
+Twitter から nitter.net にリダイレクトする
 
 ## twimg-shorten.user.js
 

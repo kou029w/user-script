@@ -3,4 +3,4 @@
 // ==/UserScript==
 "use strict";
 
-window.location.hostname = "nttr.fly.dev";
+window.location.hostname = "nitter.net";
