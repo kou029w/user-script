@@ -22,6 +22,10 @@ YouTube から piped.kavin.rocks にリダイレクトする
 
 Twitter の画像 URL を短縮する
 
+## youtube-restore-to-scroll.user.js
+
+YouTube をスペースキーでスクロールできるように戻す
+
 ## ライセンス
 
 MIT License
